@@ -110,3 +110,15 @@ This project answers real operational and data-quality questions such as:
 ---
 
 ## Project Structure
+├── raw_tables.sql
+├── cleaning_views.sql
+├── analysis_queries.sql
+└── README.md
+
+
+## Author-
+## Rohith Pawar
+linkedin - linkedin.com/in/rohith-pawar-557293346
+mail- rohitvilaspawar1@gmail.com
+
+## Thank You.
