@@ -118,7 +118,8 @@ This project answers real operational and data-quality questions such as:
 
 ## Author-
 ## Rohith Pawar
-linkedin - linkedin.com/in/rohith-pawar-557293346
+linkedin - www.linkedin.com/in/rohith-pawar-557293346
+---
 mail- rohitvilaspawar1@gmail.com
 
 ## Thank You.
